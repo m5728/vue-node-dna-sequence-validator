@@ -1,0 +1,10 @@
+{
+  "name": "funnodehomework",
+  "version": "1.0.0",
+  "description": "fun node homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests",
+    "start": "node index.js"
+  }
+}
