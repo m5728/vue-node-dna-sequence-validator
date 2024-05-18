@@ -13,7 +13,7 @@ npm
 
 ### Build Project:
 
-Run npm run build from root directory.
+Run npm run build from client.
 
 ### Running the Server:
 
